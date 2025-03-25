@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Flavius</h1>
-<h3 align="center">A passionate developer from Romania</h3>
+<h1 align="center">hey, i'm flavius 👋</h1>
+<h3 align="center">full stack dev • code explorer • always building</h3>
 
-- 🔭 I’m currently working on [Interactive Map of Craiova](https://craiova-app.vercel.app/)
+- 🛠️ currently working on [an interactive map of Craiova](https://craiova-app.vercel.app/) — hometown pride meets code
 
-- 🌱 I’m currently learning **React Native & Swift**
+- 📱 learning **React Native** and dipping my toes into **Swift**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 🤝 open to collabs, especially on **open source or cool side projects**
 
-- 👨‍💻 Take a closer look at my portofolio: [https://flavius.pro](https://flavius.pro)
+- 🌍 based in Romania, working remote-friendly across time zones
 
-- 💬 Ask me about **Next.js**
+- 🧠 ask me about **Next.js** or anything full stack
 
-- 📫 How to reach me **flaviuscojocaru19@gmail.com**
+- 💼 take a look at my [portfolio](https://flavius.pro)
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1PyjTTXE7_pLxoXYDgAg4duM5aQjCO2qE/view?usp=sharing)
+- 📫 reach out at **flaviuscojocaru19@gmail.com**
 
-- ⚡ Fun fact **I love hiking and playing chess**
+- 📄 want the full story? [here’s my resume](https://drive.google.com/file/d/1PyjTTXE7_pLxoXYDgAg4duM5aQjCO2qE/view?usp=sharing)
+
+- ⚡ fun facts: i love hiking, prog rock, and occasionally rage at a chessboard
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
