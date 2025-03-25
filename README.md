@@ -5,6 +5,8 @@
 
 - 📱 learning **React Native** and dipping my toes into **Swift**
 
+- 💼 actively looking for a dev role — junior, intern, or freelance. let’s work together.
+
 - 🤝 open to collabs, especially on **open source or cool side projects**
 
 - 🌍 based in Romania, working remote-friendly across time zones
