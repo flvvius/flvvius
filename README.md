@@ -1,9 +1,8 @@
 <h1 align="center">hi, I'm flavius 👋</h1>
 <h3 align="center">full-stack developer • building stuff that matters</h3>
 
-- 🗺️ building [an interactive map of Craiova](https://craiova-app.vercel.app/) — a tribute to my hometown
 - 📱 exploring **Next.js** and getting started with **Expo**
-- 💼 looking for junior/intern/freelance roles — open to new opportunities
+- 💼 looking for a dev role / freelance — open to new opportunities
 - 🤝 open to collab on **open source** or interesting side projects
 - 🌍 based in Romania, available for remote work
 - 🌐 check out my [portfolio website](https://flavius.pro)
