@@ -1,11 +1,10 @@
-<h1 align="center">hi, I'm flavius 👋</h1>
+<h1 align="center">hi, I'm flavius</h1>
 <h3 align="center">full-stack developer • building stuff that matters</h3>
 
-- 💼 open to new opportunities
-- 🤝 open to collab on **open source** or interesting side projects
-- 🌍 based in Romania
-- 🌐 check out my [portfolio website](https://flavius.pro)
-- 📫 reach me at **flaviuscojocaru19@gmail.com**
+- open to new opportunities
+- open to collab on **open source** or interesting side projects
+- based in Romania
+- reach me at **flaviuscojocaru19@gmail.com**
 
 ---
 
