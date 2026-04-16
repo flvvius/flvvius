@@ -1,5 +1,5 @@
 <h1 align="center">hi, I'm flavius</h1>
-<h3 align="center">full-stack developer • building stuff that matters</h3>
+<h3 align="center">full-stack engineer • building stuff that matters</h3>
 
 - open to new opportunities
 - open to collab on **open source** or interesting side projects
