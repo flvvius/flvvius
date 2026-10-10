@@ -1,0 +1,16 @@
+{
+  "name": "flvvius-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test:e2e": "node scripts/verify.mjs"
+  },
+  "devDependencies": {
+    "github-markdown-css": "^5.9.0",
+    "markdown-it": "^15.0.2",
+    "opentype.js": "^2.0.0",
+    "playwright": "^1.61.1",
+    "sharp": "^0.35.5"
+  }
+}
