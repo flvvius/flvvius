@@ -50,16 +50,16 @@ const coffee = `<g transform="translate(1051 327) rotate(-4 40 40)" ${pen}>
   <path d="M8 12l68 1-7 51Q65 74 52 74H29Q17 73 15 61Z" fill="${paper}"/>
   <path d="M76 22Q106 15 106 38Q106 57 73 56M3 78Q41 90 88 80M30-1Q17-13 28-23M48-2Q36-15 48-30"/>
 </g>`;
-writeFileSync(join(assets,'desk.svg'),canvas(1200,460,'hi, i\'m flavius. My corner of the internet.',
-  word('flavius cojocaru / bucharest',62,49,24,p['muted-foreground'])+
-  word("hi, i'm",59,158,91)+word('flavius.',55,290,146)+
-  `<path d="M63 306Q206 319 465 307" stroke="${accent}" stroke-width="4" stroke-linecap="round" fill="none"/>`+
-  word('software, AI & a head for business.',62,360,34)+
-  newspaper+turntable+coffee+
+writeFileSync(join(assets,'desk.svg'),canvas(1200,280,'hi, i\'m flavius. My corner of the internet.',
+  word('flavius cojocaru / bucharest',62,44,24,p['muted-foreground'])+
+  word("hi, i'm flavius.",55,162,112)+
+  `<path d="M63 181Q247 191 655 182" stroke="${accent}" stroke-width="4" stroke-linecap="round" fill="none"/>`+
+  word('software, AI & business.',62,241,36)+
+  `<g transform="translate(270 -35) scale(.68)">`+newspaper+turntable+coffee+
   `<g ${pen}><path d="M649 409Q851 405 1100 411M750 415l38 1M943 416l22 1" opacity=".55"/></g>`+
   word('pull up a chair.',884,89,27,p['accent-text'],-5)+
   `<path d="M999 104Q1036 112 1049 145m-10-8 10 8 2-14" fill="none" stroke="${p['accent-text']}" stroke-width="2" stroke-linecap="round"/>`+
-  word('my corner of the internet',62,419,24,p['muted-foreground'])
+  `</g>`
 ));
 
 const plant = `<g transform="translate(835 33)" ${pen}>
