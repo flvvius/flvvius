@@ -2,7 +2,7 @@
 
 Software engineer in Bucharest. Into AI, business, and building useful products.
 
-[website](https://flavius.pro) · [email](mailto:flaviuscojocaru19@gmail.com) · [linkedin](https://www.linkedin.com/in/flavius-cojocaru-20834a246/)
+[website](https://flavius.pro) · [email](mailto:flaviuscojocaru19@gmail.com) · [linkedin](https://www.linkedin.com/in/flavius-cojocaru-20834a246/) · [X](https://x.com/flaviuscj7)
 
 ### on my desk
 
@@ -48,5 +48,3 @@ Quiet interfaces for everyday work; handwriting and meaningful objects for perso
 [use the skills](https://github.com/flvvius/flavius-design-taste)
 
 </details>
-
-Off the clock: hiking, prog rock, and overly serious chess.
